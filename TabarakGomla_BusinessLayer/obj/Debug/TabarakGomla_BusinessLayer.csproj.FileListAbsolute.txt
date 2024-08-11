@@ -1,0 +1,10 @@
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\bin\Debug\TabarakGomla_BusinessLayer.dll
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\bin\Debug\TabarakGomla_BusinessLayer.pdb
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\bin\Debug\TabarakGomla_DataAccessLayer.dll
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\bin\Debug\TabarakGomla_DataAccessLayer.pdb
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\obj\Debug\TabarakGomla_BusinessLayer.csproj.AssemblyReference.cache
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\obj\Debug\TabarakGomla_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\obj\Debug\TabarakGomla_BusinessLayer.csproj.CopyComplete
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\obj\Debug\TabarakGomla_BusinessLayer.dll
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\obj\Debug\TabarakGomla_BusinessLayer.pdb
+D:\Projects\My Projects With C#\Tabarak Gomla\TabarakGomla_BusinessLayer\bin\Debug\MaterialSkin.dll
